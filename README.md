@@ -1,2 +1,3 @@
-# siscom
-Desarrollo de Software
+# SISCOM
+# Desarrollo de Software
+# Código Abierto
